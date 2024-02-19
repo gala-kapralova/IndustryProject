@@ -1,6 +1,6 @@
 ## BrainStation - Industry Project - Kijiji
 
-## Team members: Sherine Amoit, Gala Kapralova and Kim Matchett
+### Team members: Sherine Amoit, Gala Kapralova and Kim Matchett
 
 ### Please, see attached presentation - ./BrainStation Industry Project - Kijiji.pdf
 
