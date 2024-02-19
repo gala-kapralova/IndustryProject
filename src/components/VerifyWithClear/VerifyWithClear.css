@@ -1,0 +1,71 @@
+.verify-with-clear__modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+.verify-with-clear__content {
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 500px;
+  z-index: 1001;
+  text-align: left;
+  position: relative;
+}
+.verify-with-clear__back {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+}
+.verify-with-clear__instructions {
+  font-size: 14px;
+  margin: 20px 0;
+}
+.verify-with-clear__qr-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.verify-with-clear__qr-image {
+  width: 120px;
+  height: auto;
+  margin-right: 20px;
+}
+.verify-with-clear__directions {
+  flex-grow: 1;
+}
+.verify-with-clear__learn-more {
+  color: #0066CC;
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+h2 {
+  color: #333;
+  margin-top: 60px;
+}
+
+strong {
+  display: block;
+  margin-bottom: 10px;
+}
+
+ol {
+  padding-left: 20px;
+  margin: 0;
+  list-style-type: decimal;
+}/*# sourceMappingURL=VerifyWithClear.css.map */

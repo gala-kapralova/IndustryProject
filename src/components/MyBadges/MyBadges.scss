@@ -1,0 +1,41 @@
+.myBadges {
+    background-color: white;
+    position: fixed;
+    top: 40.5%; 
+    right: 10%; 
+    width: 45%; 
+    height: 40%; // Adjust the height automatically based on content
+    transform: translateY(-50%);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; // Stack sections vertically
+
+    &__section {
+        margin-bottom: 20px; // Space between sections
+    }
+
+    &__title {
+        color: #373373;
+        margin-bottom: 20px; // Space between title and icons
+        font-size: 16px;
+        text-align: left;
+    }
+
+    &__table {
+        display: flex;
+        justify-content: space-around; // Distribute icons evenly
+    }
+
+    &__icon {
+        width: 60px; // Fixed width for icons
+        height: 60px; // Fixed height for icons
+        background-color: #f2f2f2; // Placeholder background
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px; // Rounded corners for icons
+    }
+}

@@ -1,0 +1,37 @@
+.myBadges {
+  background-color: white;
+  position: fixed;
+  top: 40.5%;
+  right: 10%;
+  width: 45%;
+  height: 40%;
+  transform: translateY(-50%);
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.myBadges__section {
+  margin-bottom: 20px;
+}
+.myBadges__title {
+  color: #373373;
+  margin-bottom: 20px;
+  font-size: 16px;
+  text-align: left;
+}
+.myBadges__table {
+  display: flex;
+  justify-content: space-around;
+}
+.myBadges__icon {
+  width: 60px;
+  height: 60px;
+  background-color: #f2f2f2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}/*# sourceMappingURL=MyBadges.css.map */
