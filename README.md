@@ -2,7 +2,7 @@
 
 #### Team members: Sherine Amoit, Gala Kapralova and Kim Matchett
 
-#### Please, see attached presentation - [BrainStation Industry Project - Kijiji](BrainStation%20Industry%20Project - Kijiji.pdf)
+#### Please, see attached presentation - [BrainStation Industry Project - Kijiji](BrainStation%20Industry%20Project%20-%20Kijiji.pdf)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
